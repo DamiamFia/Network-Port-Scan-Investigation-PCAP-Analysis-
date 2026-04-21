@@ -16,3 +16,20 @@ OBJECTVIES
 -Extract key indicators of compromise (IOCs)
 
 -Simulate real-world SOC analysis workflow
+---
+TOOLS USED
+---
+-Wireshark – Packet analysis
+
+-VirusTotal – IP reputation check
+
+-AbuseIPDB – Threat intelligence lookup
+
+---
+DATASET
+
+-File Name: soc_portscan_investigation.pcap
+Type: Network packet capture
+Scenario: Simulated network with suspected reconnaissance activity
+
+
